@@ -16,8 +16,9 @@
 
 
 ## 参考资料
-《Arc support Line Segments Revisited An Efficient High-quality Ellipse Detection》[[文献下载](https://arxiv.org/pdf/1810.03243.pdf) ] [[源码下载](https://github.com/AlanLuSun/High-quality-ellipse-detection) ]
-[【MATLAB】椭圆检测（Ellipse Detection）算法](https://blog.csdn.net/xsz591541060/article/details/107813895)
+《Arc support Line Segments Revisited An Efficient High-quality Ellipse Detection》[文献下载](https://arxiv.org/pdf/1810.03243.pdf) [源码下载](https://github.com/AlanLuSun/High-quality-ellipse-detection)
+
+[【MATLAB】椭圆检测算法](https://blog.csdn.net/xsz591541060/article/details/107813895)
 
 
 ## 视频地址
